@@ -1,0 +1,22 @@
+{
+  "name": "elden-ring-trainer",
+  "displayName": "Elden Ring Trainer",
+  "programType": "trainer",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character settings",
+    "Equipment groups",
+    "Shortcut reference"
+  ],
+  "topics": [
+    "elden-ring-trainer",
+    "elden-ring-tools",
+    "elden-ring-menu",
+    "elden-ring-settings",
+    "elden-ring-configs",
+    "elden-ring-character-settings",
+    "elden-ring-equipment-groups"
+  ]
+}
